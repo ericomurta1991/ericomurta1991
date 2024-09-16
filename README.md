@@ -1,5 +1,6 @@
 Analista de Sistemas apaixonado por tecnologia 
-![tumblr_mkqtnpDYGH1rnwo2vo1_500](https://github.com/user-attachments/assets/4d977281-fd35-40e0-a766-58d32fc99a24)
+
+![R](https://github.com/user-attachments/assets/07d6a175-3dd2-4930-bd12-f4ffcf04be93)
 
 
 Estudante de pós Gradução em Desenvolvimento Full Stack;
