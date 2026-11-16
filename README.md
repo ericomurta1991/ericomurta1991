@@ -14,7 +14,7 @@ Acredito no poder do software livre, da automação via linha de comando e de ar
 
 ### 🛠️ Stack & Ecossistema
 
-![Linux](https://shields.io/badge/)
+![Linux](https://shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Open Source](https://shields.io)
 ![AWS](https://shields.io)
 ![Docker](https://shields.io)
