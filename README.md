@@ -16,12 +16,12 @@ Acredito no poder do software livre, da automação via linha de comando e de ar
 
 ![Linux](https://shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Open Source](https://shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white)
-![AWS](https://shields.io)
-![Docker](https://shields.io)
-![WireGuard](https://shields.io)
-![Bash](https://shields.io)
-![Java](https://shields.io)
-![Git](https://shields.io)
+![AWS](https://shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![WireGuard](https://shields.io/badge/WireGuard_VPN-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![Bash](https://shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java](https://shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
